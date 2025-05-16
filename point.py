@@ -1,3 +1,6 @@
+# Class modeling a 2D point in Cartesian coordinates.
+   # Supports comparison based on distance from the origin.
+
 import random
 from ftplib import parse227
 
