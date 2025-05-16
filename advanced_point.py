@@ -1,3 +1,8 @@
+#Represents a 2D point with a color attribute.
+    #Inherits from ColorPoint and adds color validation, color management,
+   # and utility methods like distance calculation and instantiation from a dictionary.
+
+
 from color_point import ColorPoint
 
 class AdvancedPoint(ColorPoint): #this means we are inheriting from colorpoint
