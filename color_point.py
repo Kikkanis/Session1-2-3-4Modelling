@@ -1,3 +1,7 @@
+#Represents a point in 2D space with an associated color.
+   # Inherits from Point and adds color attribute and string representation.
+
+
 from point import Point # point is the file, Point is the class
 import random
 
